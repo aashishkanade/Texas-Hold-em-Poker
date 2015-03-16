@@ -24,4 +24,8 @@ public class Deck {
     public static char[] getSuites() {
         return suites;
     }
+    
+    public static int[] getNumbers() {
+        return numbers;
+    }
 }
